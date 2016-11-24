@@ -1,4 +1,4 @@
-<html lang="en"><head><style type="text/css">.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{font-weight:400}</style><link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700"><style type="text/css">.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px}</style><style type="text/css">@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}</style><style type="text/css">.gm-style{font-family:Georgia,Calibri;font-size:11px;font-weight:400;text-decoration:none}.gm-style img{max-width:none}</style>
+<html lang="en"><head><style type="text/css">.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{font-weight:400}</style><link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700"><style type="text/css">.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px}</style><style type="text/css">@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}</style><style type="text/css">.gm-style{font-family:Roboto,Arial,sans-serif;font-size:11px;font-weight:400;text-decoration:none}.gm-style img{max-width:none}</style>
   <!-- Theme Made By www.w3schools.com - No Copyright -->
 
   <title>24hrs in...</title>
@@ -29,18 +29,24 @@
           <a href="http://mahardika94.github.io/teabreak.github.io/">HOME</a>
           </li>
         <li>
-          <a href="http://mahardika94.github.io/teabreak.github.io/sell.html">LONDON</a>
+          <a href="http://mahardika94.github.io/teabreak.github.io/sell.html">SELL</a>
           </li>
         <li>
-          <a href="http://mahardika94.github.io/teabreak.github.io/menu.html">MUMBAI</a>
+          <a href="http://mahardika94.github.io/teabreak.github.io/menu.html">BUY</a>
           </li>
         <li>
-          <a href="http://mahardika94.github.io/teabreak.github.io/account.html">RIO DE JANEIRO</a>
+          <a href="http://mahardika94.github.io/teabreak.github.io/account.html">MY ACCOUNT</a>
           </li>
-
-        
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="http://mahardika94.github.io/teabreak.github.io/help.html">HELP
+          <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="http://mahardika94.github.io/teabreak.github.io/help.html">FAQs</a></li>
+            <li><a href="http://mahardika94.github.io/teabreak.github.io/help.html">Orders</a></li>
+            <li><a href="http://mahardika94.github.io/teabreak.github.io/help.html">About Us</a></li> 
           </ul>
-        
+        </li>
+        <li><a href="#"><span class="glyphicon glyphicon-search"></span></a></li>
       </ul>
     </div>
   </div>
@@ -203,6 +209,10 @@
   </div>
   <br>
   
+
+  
+
+
 
 <!-- Add Google Maps -->
 <script src="http://maps.googleapis.com/maps/api/js"></script>
